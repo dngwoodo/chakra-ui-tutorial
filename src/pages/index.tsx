@@ -107,7 +107,7 @@ const Index = () => {
                 <svg
                   stroke="currentColor"
                   fill="currentColor"
-                  stroke-width="0"
+                  strokeWidth="0"
                   viewBox="0 0 512 512"
                   aria-hidden="true"
                   height="1em"
@@ -121,7 +121,7 @@ const Index = () => {
                 <svg
                   stroke="currentColor"
                   fill="currentColor"
-                  stroke-width="0"
+                  strokeWidth="0"
                   viewBox="0 0 448 512"
                   aria-hidden="true"
                   height="1em"
