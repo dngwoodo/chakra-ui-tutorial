@@ -223,7 +223,7 @@
   dependencies:
     "@chakra-ui/utils" "1.4.0"
 
-"@chakra-ui/icons@^1.0.5":
+"@chakra-ui/icons@^1.0.7":
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/@chakra-ui/icons/-/icons-1.0.7.tgz#4a2a846468c57436fc61fb991a1126acfcbaede8"
   integrity sha512-Fqc8jECA8e02RJ7zjgWUu/b1ue2QevxrIptkzgzE3gZTrndquBm9ikB2In/zRKR07FkUd653amd9OOEyU2COJQ==
